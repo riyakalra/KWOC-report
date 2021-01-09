@@ -3,6 +3,8 @@
 ### ABOUT KWoC
 Kharagpur Winter of Code is an annual 5-week long online program organised by Kharagpur Open Source Society at IIT Kharagpur. It aims to help students who are new to open source software development. It also prepares them for many open source summer programmes like Google Summer of Code.
 
+![KWoC](https://miro.medium.com/max/637/1*avBtuT1NWH81aQyZPbQRMQ.png)
+
 ### My Experience
 I have been learning web development for a long time now. I wanted to gain some experience and put my knowledge into action. KWOC, being beginner friendly helped me achieve this. Scrolling through the projects, I came accross **False9**. The project was very appealing, so I decided to contribute to it. I joined it's slack channel and got familiar with the mentor. He helped me to understand the working of project. He cleared all my doubts and made my KWoC journey successful. 
 
